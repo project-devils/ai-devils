@@ -1,6 +1,6 @@
 {
   "name": "ai-devils",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "My first package",
   "main": "index.js",
   "scripts": {

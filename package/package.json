@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aichandevils/ai-devils.git"
+    "url": "git+https://github.com/project-aidevils/ai-devils.git"
   },
   "publishConfig": {
   "registry":"https://npm.pkg.github.com"
@@ -19,7 +19,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aichandevils/ai-devils/issues"
+    "url": "https://github.com/project-aidevils/ai-devils/issues"
   },
-  "homepage": "https://github.com/aichandevils/ai-devils#readme"
+  "homepage": "https://github.com/project-aidevils/ai-devils#readme"
 }
